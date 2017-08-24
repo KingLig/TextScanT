@@ -13,7 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
     private EditText editbarcode;
     Receiver receiver;
-
+private String textl;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
